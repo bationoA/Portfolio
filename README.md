@@ -1,2 +1,2 @@
 # Portfolio
-Let's atch learn and understand
+Let's watch learn and understand
