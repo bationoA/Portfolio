@@ -1,2 +1,2 @@
 # Portfolio
-Data science portfolio
+Let's atch learn and understand
